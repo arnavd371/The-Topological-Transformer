@@ -1,8 +1,8 @@
 # The Topological Transformer (T-Form)
 
 > **A Transformer architecture augmented with Topological Data Analysis (TDA).**  
-> Each attention layer reads the *shape* of the input token cloud — not just
-> pairwise similarities — and uses that global structural signal to bias
+> Each attention layer reads the *shape* of the input token cloud, not just
+> pairwise similarities, and uses that global structural signal to bias
 > attention, letting the model reason about connectivity, loops, and
 > bridging tokens.
 
